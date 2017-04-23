@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 class ArticlesController < ApplicationController
 
 http_basic_authenticate_with name: "dhh", password: "secret", except: [:index, :show]
@@ -12,6 +13,8 @@ def index
   end
  
 =======
+=======
+>>>>>>> e619c78bd00b47797aa4915498d60fde37bc126a
 
 
 class ArticlesController < ApplicationController
@@ -49,12 +52,16 @@ private
 
 
 class ArticlesController < ApplicationController
+<<<<<<< HEAD
+>>>>>>> e619c78bd00b47797aa4915498d60fde37bc126a
+=======
 >>>>>>> e619c78bd00b47797aa4915498d60fde37bc126a
   def show
     @article = Article.find(params[:id])
   end
  
   def new
+<<<<<<< HEAD
 <<<<<<< HEAD
   @article = Article.new
 end
@@ -96,6 +103,8 @@ private
   end
 end
 =======
+=======
+>>>>>>> e619c78bd00b47797aa4915498d60fde37bc126a
   end
  
   # snippet for brevity
@@ -122,4 +131,7 @@ end
 
 
 
+<<<<<<< HEAD
+>>>>>>> e619c78bd00b47797aa4915498d60fde37bc126a
+=======
 >>>>>>> e619c78bd00b47797aa4915498d60fde37bc126a

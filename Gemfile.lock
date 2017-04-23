@@ -42,7 +42,10 @@ GEM
     bindex (0.5.0)
     builder (3.2.3)
 <<<<<<< HEAD
+<<<<<<< HEAD
     byebug (9.0.6)
+=======
+>>>>>>> e619c78bd00b47797aa4915498d60fde37bc126a
 =======
 >>>>>>> e619c78bd00b47797aa4915498d60fde37bc126a
     coffee-rails (4.2.1)
@@ -78,8 +81,11 @@ GEM
     multi_json (1.12.1)
     nio4r (2.0.0)
 <<<<<<< HEAD
+<<<<<<< HEAD
     nokogiri (1.7.1)
       mini_portile2 (~> 2.1.0)
+=======
+>>>>>>> e619c78bd00b47797aa4915498d60fde37bc126a
 =======
 >>>>>>> e619c78bd00b47797aa4915498d60fde37bc126a
     nokogiri (1.7.1-x86-mingw32)
@@ -127,7 +133,10 @@ GEM
       activesupport (>= 4.0)
       sprockets (>= 3.0.0)
 <<<<<<< HEAD
+<<<<<<< HEAD
     sqlite3 (1.3.13)
+=======
+>>>>>>> e619c78bd00b47797aa4915498d60fde37bc126a
 =======
 >>>>>>> e619c78bd00b47797aa4915498d60fde37bc126a
     sqlite3 (1.3.13-x86-mingw32)
@@ -154,7 +163,10 @@ GEM
 
 PLATFORMS
 <<<<<<< HEAD
+<<<<<<< HEAD
   ruby
+=======
+>>>>>>> e619c78bd00b47797aa4915498d60fde37bc126a
 =======
 >>>>>>> e619c78bd00b47797aa4915498d60fde37bc126a
   x86-mingw32
@@ -175,7 +187,11 @@ DEPENDENCIES
 
 BUNDLED WITH
 <<<<<<< HEAD
+<<<<<<< HEAD
    1.14.6
+=======
+   1.13.7
+>>>>>>> e619c78bd00b47797aa4915498d60fde37bc126a
 =======
    1.13.7
 >>>>>>> e619c78bd00b47797aa4915498d60fde37bc126a
